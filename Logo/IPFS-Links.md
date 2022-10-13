@@ -9,5 +9,4 @@ Logo - https://ipfs.io/ipfs/bafybeif5z746ml53evmkut36d3vzof2i22hdtkrbnoxhmhs5skd
 800x800 - https://ipfs.io/ipfs/bafybeievx2gczenfzb5pjx26wjghgdr4hk5tusrzoychlf3nck542iscfa \
 1000x1000 - https://ipfs.io/ipfs/bafybeihjohmbky77w666ync4kshqtho7vwwjgxlheoqiwfw7oezkvu6qsa \
 1200x1200 - https://ipfs.io/ipfs/bafybeiecpcmw4goqleblc7wkmkpierkgyirdcr5wxo3tqj7gq27jak6rwi \
-1600x1600 - https://ipfs.io/ipfs/bafybeiajdr46rilqjeypxixt46uz2sv5tqhgo6djkcmkrg3wubbmainxea \
-
+1600x1600 - https://ipfs.io/ipfs/bafybeiajdr46rilqjeypxixt46uz2sv5tqhgo6djkcmkrg3wubbmainxea 
